@@ -1,0 +1,21 @@
+h1 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: purple;
+}
+
+p {
+    border-width: 8px;
+    border-style: solid dotted double groove;
+    border-color: red;
+}
+
+h4 {
+    border: 8px solid green;
+}
+
+h3 {
+    border-bottom: 5px dashed pink;
+    border-top: 5px dotted rgb(163, 39, 60);
+    border-left: 5px ridge rgb(88, 33, 241);
+}

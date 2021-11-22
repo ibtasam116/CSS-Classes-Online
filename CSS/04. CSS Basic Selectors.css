@@ -1,0 +1,17 @@
+#header h3 {
+    color: purple;
+    background-color: lightcoral;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    color: greenyellow;
+    background-color: grey;
+}
+
+.li p {
+    background-color: indigo;
+}
